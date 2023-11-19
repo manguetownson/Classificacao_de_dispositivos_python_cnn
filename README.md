@@ -1,0 +1,1 @@
+# Classificacao_de_dispositivos_python_cnn
